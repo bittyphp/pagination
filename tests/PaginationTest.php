@@ -1,5 +1,5 @@
 <?php
-use BittyPHP\Pagination;
+use Kijtra\Pagination;
 
 class PaginationTest extends \PHPUnit_Framework_TestCase
 {

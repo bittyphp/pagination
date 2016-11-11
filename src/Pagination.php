@@ -1,11 +1,11 @@
 <?php
 /**
- * BittyPHP/Object
+ * Kijtra/Object
  *
  * Licensed under The MIT License
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
  */
-namespace BittyPHP;
+namespace Kijtra;
 
 class Pagination
 {

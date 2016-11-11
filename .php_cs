@@ -1,12 +1,4 @@
 <?php
-
-$header = <<<'EOF'
-@copyright 2015 Kijtra. All rights reserved
-@license MIT See LICENSE.md at the root of the project for more info
-EOF;
-
-Symfony\CS\Fixer\Contrib\HeaderCommentFixer::setHeader($header);
-
 return Symfony\CS\Config\Config::create()
     ->level(Symfony\CS\FixerInterface::PSR2_LEVEL)
     ->fixers([

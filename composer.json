@@ -1,5 +1,5 @@
 {
-  "name": "bittyphp/pagination",
+  "name": "kijtra/pagination",
   "description": "Pagination helper.",
   "type": "library",
   "keywords": ["pagination", "pager"],
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "BittyPHP\\": "src/"
+      "Kijtra\\": "src/"
     }
   },
   "require-dev" : {
